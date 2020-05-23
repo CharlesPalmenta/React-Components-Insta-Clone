@@ -19,9 +19,9 @@ This project was put together using create-react-app (CRA). You will not need to
 - [X]  Clone your OWN version of the repository in your terminal
 - [X]  CD into the project base directory `cd React-Components-Insta-Clone`
 - [X]  Download project dependencies by running `npm install`
-- [ ]  Start up the app using `npm start`
-- [ ]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ]  Push commits: git push origin `<firstName-lastName>`.
+- [X]  Start up the app using `npm start`
+- [X]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [X]  Push commits: git push origin `<firstName-lastName>`.
 
 ### **Tasks**
 
